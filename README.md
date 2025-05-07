@@ -28,7 +28,7 @@ Welcome to my repository showcasing the projects I completed as part of the Free
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/shukri-isse/responsive-web-design-projects.git
+   git clone https://github.com/shukri-isse/FCC-Responsive-Web-Design-Certification.git
 2. Open the HTML files in your browser to view the projects.
 
 ## Technologies Used

@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#title {
+    padding-top: 50px;
+}
+
+#title, header p {
+    text-align: center;
+}
+
+header, main{
+    background-color: #eeeeee;
+}
+
+#img-div{
+    background-color: #fff;
+}
+
+#image {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#img-caption{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+h4 {
+    padding-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+li {
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+p q {
+    display: block;
+    padding-top: 20px;
+    text-align: left;
+}
+
+#more-info {
+    text-align: center;
+}
